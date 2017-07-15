@@ -1,10 +1,34 @@
 .header{
-  font-family: Verdana;
+
   font-weight: normal;
   font-size: 50px;
-  color: white;
-  text-align: center;
+
 }
 body{
   background-color: black;
+  text-align: center;
+  color: white;
+    font-family: Verdana;
+}
+.link{
+  color:Aquamarine;
+  font-size: 16px;
+}
+h2{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+.description{
+  font-family: Verdana;
+  color:Gray;
+  font-size: 21px;
+}
+.footer{
+  color:Gray;
+  text-align: right;
+
+}
+p{
+  font-size: 21px;
 }
